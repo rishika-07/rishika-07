@@ -45,26 +45,17 @@
 <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"></h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=suryaanshrai&count_private=true&theme=react&border_radius=10" alt="streak stats"/>    
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=suryaanshrai&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=suryaanshrai&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=rishika-07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>    
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=rishika-07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<!--   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=rishika-07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" /> -->
 </div>
-
-
-
 
 
 <div align="center">
   <h2>Contributions</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/suryaanshrai/suryaanshrai/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/rishika-07/rishika-07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
-<div align="center">
-    <p>
-        <b>Here's a fun fact</b>
-    </p>
-    Earlier, scientists used to believe that the entire space is filled with a substance called "ether".
-</div>
